@@ -1,4 +1,4 @@
-# TripAdvisory | Python | MySQL
+# TripAdvisory | Python, MySQL
 . This Project highlights the Hotels Available for a visit to Kerala.Allows the user to enter as either a user or an   administrator.
 
 . As a user, you can compare hotels based on their ratings, find hotels within a certain price range, and learn about their specialties.s an administrator, you are in charge of keeping the database up to date with information about Kerala hotels.
