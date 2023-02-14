@@ -3,7 +3,7 @@
 
 . As a user, you can compare hotels based on their ratings, find hotels within a certain price range, and learn about their specialties.s an administrator, you are in charge of keeping the database up to date with information about Kerala hotels.
 
-. Data for a User as well as for Hotels is stored in the seperate databases in the Backend.
+. Data for a User as well as for Hotels is stored in the seperate SQL databases in the Backend.
 
 
 
