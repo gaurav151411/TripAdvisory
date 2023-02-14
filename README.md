@@ -5,6 +5,9 @@
 
 . Data for a User as well as for Hotels is stored in the seperate SQL databases in the Backend.
 
+. Frontend is the Python Interface whereas at Backend, MySQL is used for storing the concerned data.
+ 
+
 
 
 https://user-images.githubusercontent.com/97463274/218692867-bcfb5c51-ac82-4f94-800a-e1a91b574eb5.mp4
